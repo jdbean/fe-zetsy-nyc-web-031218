@@ -55,5 +55,5 @@ a {
 }
 
 .feature img {
-	border: 5px solid rgb(152,173,166);
+	border: 5px rgb(152,173,166) solid;
 }
