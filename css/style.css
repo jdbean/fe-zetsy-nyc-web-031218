@@ -32,6 +32,10 @@ h1 {
 	margin: 0 0 5px 0;
 }
 
+h2 {
+	font-size: 2em;
+}
+
 p {
 	color: #555
 }
@@ -41,5 +45,5 @@ p {
 }
 
 a {
-	text-decoration: none
+	text-decoration: none;
 }
