@@ -26,8 +26,9 @@ h1 {
 	font-family: 'Baskerville', serif;
 	font-size: 5em;
 	font-weight: normal;
-	font-color:
+
 	border-bottom: 1px solid #ccc;
+	padding-bottom: 10px;
 }
 
 p {
