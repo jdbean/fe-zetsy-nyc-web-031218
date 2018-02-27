@@ -23,9 +23,10 @@ body {
 /* Write all remaining styles here */
 
 h1 {
+	font-family: 'Baskerville', serif;
 	border-bottom: 1px solid #ccc;
 }
-}
+
 
 #cp-notice {
 	float: right;
