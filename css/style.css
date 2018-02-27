@@ -42,7 +42,7 @@ p {
 }
 
 #cp-notice {
-	float: right;
+	text-align: right;
 }
 
 a {
