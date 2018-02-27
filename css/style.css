@@ -39,3 +39,7 @@ p {
 #cp-notice {
 	float: right;
 }
+
+a {
+	text-decoration: none
+}
